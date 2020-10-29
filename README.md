@@ -1,4 +1,5 @@
 # covidmove
+https://ieeecovidmove.in/
 
 1] Low Cost Bedside Patient Monitoring System
 The health care community requires effective monitoring of vital signs to identify and treat at-risk patients. The availability of bedside patient monitors remains limited, given the enormous demand placed on our overstretched healthcare facilities. Our team is proposing a low-cost solution for clinical community that will aid in patient monitoring
